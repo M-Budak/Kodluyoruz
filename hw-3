@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Page</title>
+</head>
+<body>
+    <!--  Navbar - Start  -->
+    <header>
+        <nav>  
+            <ul>    
+                <li>    
+                    <a href="index.html"> Main Page </a>
+                </li>
+                <li>    
+                    <a href="about-us.html"> About Us </a>
+                </li>
+                <li>    
+                    <a href="contact.html"> Contact </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <!--  Navbar - End  -->
+
+    <!--  Content - Start  -->
+    <section>
+        <!--  Articles - End  -->
+        <article>
+            <h2>First Text</h2>
+            <img src="https://picsum.photos/id/3/200/300" alt="Pics1">
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Hic vero aliquid illum reiciendis.</p>
+            <p>Quis suscipit in minus facere.</p>
+            <p>Soluta nihil eos iure sit?</p>
+            <p>Incidunt, aperiam pariatur? Iusto, modi.</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <hr>
+        </article>
+        <article>
+            <h2>Second Text</h2>
+            <img src="https://picsum.photos/id/2/200/300" alt="Pics2">
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Hic vero aliquid illum reiciendis.</p>
+            <p>Quis suscipit in minus facere.</p>
+            <p>Soluta nihil eos iure sit?</p>
+            <p>Incidunt, aperiam pariatur? Iusto, modi.</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <hr>
+        </article>   <article>
+            <h2>Third Text</h2>
+            <img src="https://picsum.photos/id/1/200/300" alt="Pics3">
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Hic vero aliquid illum reiciendis.</p>
+            <p>Quis suscipit in minus facere.</p>
+            <p>Soluta nihil eos iure sit?</p>
+            <p>Incidunt, aperiam pariatur? Iusto, modi.</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <hr>
+        </article>
+        <!--  Articles - Start  -->
+    </section>
+    <!--  Content - End  -->
+
+    <!--  Footer - Start  -->
+    <footer>
+        <nav>  
+            <ul>    
+                <li>    
+                    <a href="index.html"> Main Page </a>
+                </li>
+                <li>    
+                    <a href="about-us.html"> About Us </a>
+                </li>
+                <li>    
+                    <a href="contact.html"> Contact </a>
+                </li>
+            </ul>
+        </nav>
+    </footer>
+
+
+
+    <!--  Footer - End  -->
+
+</body>
+</html>
+
+
+<!-- About Us Page Below -->
+
+</head>
+<body>
+    <!--  Navbar - Start  -->
+    <header>
+        <nav>  
+            <ul>    
+                <li>    
+                    <a href="index.html"> Main Page </a>
+                </li>
+                <li>    
+                    <a href="about-us.html"> About Us </a>
+                </li>
+                <li>    
+                    <a href="contact.html"> Contact </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <!--  Navbar - End  -->
+
+    <!--  Content - Start  -->
+    <section>
+        <!--  Articles - End  -->
+        <article>
+            <h2>About Text</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+            <img src="https://picsum.photos/id/4/200/300" alt="Pics1">
+            <hr>
+        </article>
+        
+        
+        <!-- Contact Page Below -->
+        
+        </head>
+<body>
+    <!--  Navbar - Start  -->
+    <header>
+        <nav>  
+            <ul>    
+                <li>    
+                    <a href="index.html"> Main Page </a>
+                </li>
+                <li>    
+                    <a href="about-us.html"> About Us </a>
+                </li>
+                <li>    
+                    <a href="contact.html"> Contact </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <!--  Navbar - End  -->
+
+    <!--  Content - Start  -->
+    <section>
+        <!--  Articles - End  -->
+        <article>
+            <h2>Contact Text</h2>
+            <ul>
+                <p>Lorem ipsum dolor sit amet.</p>
+                <p>Voluptatum eos ipsa unde! Sit?</p>
+                <p>Consectetur adipisci similique quidem perspiciatis!</p>
+                <p>Provident placeat excepturi voluptatibus molestias!</p>
+                <p>Iure quia aliquid quam minima?</p>
+            <ul>    
+                <li><a href="tel:02562132195">0256 213 21 95</a></li>
+                <li><a href="mailto:budakm16@itu.edu.tr">budakm16@itu.edu.tr</a></li>
+            </ul>        
+                <address>   
+                    NYC
+                </address>
+            </ul>
+            <img src="https://picsum.photos/id/5/200/300" alt="Pics1">
+            <hr>
+        </article>
