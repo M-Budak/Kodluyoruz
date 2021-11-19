@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+    <h1>Dog.com</h1>
+    <h2>This site is about dog types!</h2>
+    <a href="dogs.html" >types of dogs</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="mystyle.css">
+    <title>Document</title>
+</head>
+<body>
+    <ol> 
+        <li>
+        <img src="https://placedog.net/500/280/sepia?id=5" alt="dog-img-1">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo!</p>
+        </img>
+    </li>
+    <li>
+        <img src="https://placedog.net/500/280/sepia?id=3" alt="dog-img-2">
+            <p>Iusto placeat eum incidunt voluptatibus nesciunt reiciendis. Sed, nesciunt.</p>
+        </img>
+        <li>
+    <li>
+        <img src="https://placedog.net/500/280/sepia?id=1" alt="dog-img-3">
+            <p>Assumenda optio consequuntur qui asperiores voluptatum, cum quisquam doloribus?</p>
+        </img>
+    </li>
+    </ol>
+
+
+</body>
+</html>
+
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  h2 {
+      color: coral;
+      margin-left: 20px;
+  }
+
+  p {
+      color: cornsilk;
+  }
